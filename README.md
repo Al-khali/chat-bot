@@ -24,3 +24,5 @@ The training has been done using conversations from datasets collected during Co
 
 
 
+## try it out 
+[chat bot live](https://al-khali-chat-bot-cbv2-g55mvl.streamlitapp.com/)
